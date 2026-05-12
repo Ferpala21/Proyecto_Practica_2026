@@ -1,0 +1,13 @@
+Git branch -a:
+Sirve para mostrar todas las ramas locales y remotas del repositorio.
+Comando para cambiar de rama:
+git checkout nombre-rama
+
+Ejemplo:
+git checkout TP1-Git-Rama1
+
+Git branch -D:
+Sirve para eliminar una rama de forma forzada.
+
+Sintaxis:
+git branch -D nombre-rama
