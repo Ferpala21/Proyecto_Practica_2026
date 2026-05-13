@@ -70,3 +70,17 @@ Requisitos funcionales:
 
 Funciones específicas que el sistema debe cumplir.
 
+
+
+Script de cálculo de edad:
+
+
+
+El archivo edad.py permite calcular la edad de una persona usando su año de nacimiento.
+
+
+
+Para ejecutarlo:
+
+python edad.py
+
