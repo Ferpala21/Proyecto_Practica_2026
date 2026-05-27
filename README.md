@@ -84,3 +84,33 @@ Para ejecutarlo:
 
 python edad.py
 
+
+
+
+
+
+
+
+
+\# Proyecto Practica 2026
+
+
+
+\## Descripción
+
+Repositorio creado para los trabajos prácticos de Git y GitHub.
+
+
+
+\## Características
+
+\- Uso de Git
+
+\- Manejo de ramas
+
+\- Repositorio remoto en GitHub
+
+\- Configuración de Git
+
+\- Uso de README.md
+
